@@ -4,7 +4,6 @@
 
 #### As técnologias usadas foram:
 * Java
-* IDE Intellij 
 * Spring Boot Framework
 * Banco de dados Postgresql
 * Apache Tomcat 10
